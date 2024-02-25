@@ -1,3 +1,5 @@
 
 /silly/lib
 .DS_Store
+silly/secret.py
+/silly/__pycache__

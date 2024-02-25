@@ -1,8 +1,7 @@
-TOKEN = "MTIwODU5MTY1MDc2Nzc2OTY1MA.GOItwt.eRXODQOcQcQyl9v0WMxPnzNTMfsoP1pICsQJxA"
-
 import discord
 from discord.ext import commands
 from discord import app_commands
+from secret import *
 
 description = '''testing bot'''
 
